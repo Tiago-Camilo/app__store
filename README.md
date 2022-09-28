@@ -1,6 +1,7 @@
 # APP | STORE
 
 ![Captura de tela 2022-09-27 221211](https://user-images.githubusercontent.com/113468784/192665226-ac2c2b22-e5e0-4700-8325-393709f77855.png)
+> status: Developing
 
 <h1>DESCRIÇÃO DO PROJETO</h1>
 <p>Essa é a 'landing page' do 'APP SOTORE', contem conteúdo das lojas de download. . .</p>
