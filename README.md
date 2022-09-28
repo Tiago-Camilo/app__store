@@ -26,4 +26,4 @@
 
 
 <h1>ACESSE O PROJETO</h1>
-<p><a href="https://tiago-camilo.github.io/hzc__home/" >acessar por aqui </a></p>
+<p><a href="https://tiago-camilo.github.io/app__store/" >acessar por aqui </a></p>
